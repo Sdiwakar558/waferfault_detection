@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82972552-ed67-4470-b911-e79f59f939aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Upload_CSVTOS3/mearge_csv_for_s3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client_Raw_Data_Validation/Raw_Data_Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Client_Raw_Data_Validation/Raw_Data_Validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer12_20012.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_000000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_223345.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_08012020_120000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_10012020_131534.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_11012020_151432.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_12012020_111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_12012020_111213.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_13012020_141000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_14012020_113045.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_15010_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_15012020_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_18012020_121532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_19012020_141432.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_20012020_135132.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_21012020_143634.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_22012020_173245.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_23012020_163456.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_24012020_150121.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_25012020_142112.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_fault_detection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_text_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Waferdefault_15010_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_07012020_041011.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_13012020_090817.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_16012020_051629.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_16012020_134553.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_17012020_125434.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_20012020_090819.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_20022020_090716.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_21012020_080913.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_22022020_041119.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_23012020_011008.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_23012020_041211.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_27012020_080911.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_28012020_051011.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_28012020_090817.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_28042020_031911.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_29012020_050617.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_29012020_060756.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_31012020_090811.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Log/Raw_Data_Validation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Raw_Data_Validation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer12_20012.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_07012020_000000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_07012020_223345.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_08012020_120000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_10012020_131534.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_11012020_151432.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_12012020_111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_12012020_111213.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_13012020_141000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_14012020_113045.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_15010_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_15012020_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_18012020_121532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_19012020_141432.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_20012020_135132.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_21012020_143634.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_22012020_173245.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_23012020_163456.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_24012020_150121.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_25012020_142112.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_fault_detection.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Wafer_text_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/Waferdefault_15010_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_07012020_041011.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_13012020_090817.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_16012020_051629.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_16012020_134553.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_17012020_125434.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_20012020_090819.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_20022020_090716.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_21012020_080913.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_22022020_041119.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_23012020_011008.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_23012020_041211.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_27012020_080911.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_28012020_051011.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_28012020_090817.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_28042020_031911.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_29012020_050617.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_29012020_060756.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_batch_fileCopy/wafer_31012020_090811.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sdiwakar558"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sdiwakar558/waferfaultdetections.git",
+    "accountId": "0a546336-598e-4df3-94e3-f74aa68e08fb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ftlYnyoAJYm8di8qB8rbVzEY8c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Raw_Data_Validation.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "branch1",
+    "last_opened_file_path": "C:/Users/diwashar/Waferfault_detection/pythonProject"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diwashar\Waferfault_detection\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diwashar\Waferfault_detection\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82972552-ed67-4470-b911-e79f59f939aa" name="Changes" comment="" />
+      <created>1714628305231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714628305231</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

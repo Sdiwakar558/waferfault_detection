@@ -1,0 +1,12 @@
+2024-05-03	02:37:11			Copy training File started
+2024-05-03	02:37:11			Existing Training_Batch_fileCopy deleted successfully
+2024-05-03	02:37:11			Training file copied to Training_Batch_fileCopy
+2024-05-03	02:37:11			Taking data from schema_training.json STARTED
+2024-05-03	02:37:11			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-03	02:37:11			18 moved to Good_Raw
+2024-05-03	02:37:11			Column level validation started
+2024-05-03	02:37:11			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-03	02:37:11			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-03	02:37:11			Column validation completed
+2024-05-03	02:37:11			Column label validation started
+2024-05-03	02:37:11			<class 'OSError'> occured
