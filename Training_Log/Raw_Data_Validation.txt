@@ -1,12 +1,66 @@
-2024-05-03	02:37:11			Copy training File started
-2024-05-03	02:37:11			Existing Training_Batch_fileCopy deleted successfully
-2024-05-03	02:37:11			Training file copied to Training_Batch_fileCopy
-2024-05-03	02:37:11			Taking data from schema_training.json STARTED
-2024-05-03	02:37:11			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
-2024-05-03	02:37:11			18 moved to Good_Raw
-2024-05-03	02:37:11			Column level validation started
-2024-05-03	02:37:11			wafer_16012020_134553.csv moved to Bad_file folder
-2024-05-03	02:37:11			wafer_17012020_125434.csv moved to Bad_file folder
-2024-05-03	02:37:11			Column validation completed
-2024-05-03	02:37:11			Column label validation started
-2024-05-03	02:37:11			<class 'OSError'> occured
+2024-05-05	01:27:07			Copy training File started
+2024-05-05	01:27:07			Existing Training_Batch_fileCopy deleted successfully
+2024-05-05	01:27:07			Training file copied to Training_Batch_fileCopy
+2024-05-04	23:43:28			Taking data from schema_training.json STARTED
+2024-05-04	23:43:28			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-04	23:43:28			18 moved to Good_Raw
+2024-05-04	23:43:28			Column level validation started
+2024-05-04	23:43:28			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-04	23:43:28			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-04	23:43:28			Column validation completed
+2024-05-04	23:43:28			Column label validation started
+2024-05-04	23:43:28			<class 'OSError'> occured
+2024-05-05	00:33:17			Taking data from schema_training.json STARTED
+2024-05-05	00:33:17			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-05	00:33:17			18 moved to Good_Raw
+2024-05-05	00:33:17			Column level validation started
+2024-05-05	00:33:17			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-05	00:33:17			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-05	00:33:17			Column validation completed
+2024-05-05	00:33:17			Column label validation started
+2024-05-05	00:33:17			<class 'OSError'> occured
+2024-05-05	00:37:07			Taking data from schema_training.json STARTED
+2024-05-05	00:37:07			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-05	00:37:07			18 moved to Good_Raw
+2024-05-05	00:37:07			Column level validation started
+2024-05-05	00:37:07			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-05	00:37:07			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-05	00:37:07			Column validation completed
+2024-05-05	00:37:07			Column label validation started
+2024-05-05	00:37:07			<class 'OSError'> occured
+2024-05-05	00:38:37			Taking data from schema_training.json STARTED
+2024-05-05	00:38:37			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-05	00:38:37			18 moved to Good_Raw
+2024-05-05	00:38:37			Column level validation started
+2024-05-05	00:38:37			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-05	00:38:37			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-05	00:38:37			Column validation completed
+2024-05-05	00:38:37			Column label validation started
+2024-05-05	00:38:37			<class 'OSError'> occured
+2024-05-05	00:45:31			Taking data from schema_training.json STARTED
+2024-05-05	00:45:31			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-05	00:45:31			18 moved to Good_Raw
+2024-05-05	00:45:31			Column level validation started
+2024-05-05	00:45:31			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-05	00:45:31			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-05	00:45:31			Column validation completed
+2024-05-05	00:45:31			Column label validation started
+2024-05-05	00:45:31			<class 'OSError'> occured
+2024-05-05	00:55:20			Taking data from schema_training.json STARTED
+2024-05-05	00:55:20			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-05	00:55:20			18 moved to Good_Raw
+2024-05-05	00:55:20			Column level validation started
+2024-05-05	00:55:20			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-05	00:55:20			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-05	00:55:20			Column validation completed
+2024-05-05	00:55:20			Column label validation started
+2024-05-05	00:55:20			<class 'OSError'> occured
+2024-05-05	01:27:07			Taking data from schema_training.json STARTED
+2024-05-05	01:27:07			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-05-05	01:27:07			18 moved to Good_Raw
+2024-05-05	01:27:07			Column level validation started
+2024-05-05	01:27:07			wafer_16012020_134553.csv moved to Bad_file folder
+2024-05-05	01:27:07			wafer_17012020_125434.csv moved to Bad_file folder
+2024-05-05	01:27:07			Column validation completed
+2024-05-05	01:27:07			Column label validation started
+2024-05-05	01:27:07			<class 'OSError'> occured

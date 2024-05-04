@@ -1,0 +1,43 @@
+2024-05-04	16:44:36			Connection creation started with S3 container
+2024-05-04	23:43:28			CSV mearging started 20
+2024-05-04	23:43:28			./Merge_csv/ at line 26
+2024-05-04	23:43:28			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-04_23:43:28.csv
+2024-05-04	23:43:28			Connection Started
+2024-05-04	23:43:28			Connection established successfully
+2024-05-04	23:43:28			File successfully uploaded to AWS S3
+2024-05-05	00:33:17			CSV mearging started 20
+2024-05-05	00:33:17			./Merge_csv/ at line 26
+2024-05-05	00:33:17			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_00:33:17.csv
+2024-05-05	00:33:17			Connection Started
+2024-05-05	00:33:17			Connection established successfully
+2024-05-05	00:33:17			Unable to locate credentials Exception occured
+2024-05-05	00:37:07			CSV mearging started 20
+2024-05-05	00:37:07			./Merge_csv/ at line 26
+2024-05-05	00:37:07			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_00:37:07.csv
+2024-05-05	00:37:07			Connection Started
+2024-05-05	00:37:07			Connection established successfully
+2024-05-05	00:37:07			Unable to locate credentials Exception occured
+2024-05-05	00:38:37			CSV mearging started 20
+2024-05-05	00:38:37			./Merge_csv/ at line 26
+2024-05-05	00:38:37			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_00:38:37.csv
+2024-05-05	00:38:37			Connection Started
+2024-05-05	00:38:37			Connection established successfully
+2024-05-05	00:38:37			Unable to locate credentials Exception occured
+2024-05-05	00:45:31			CSV mearging started 20
+2024-05-05	00:45:31			./Merge_csv/ at line 26
+2024-05-05	00:45:31			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_00:45:31.csv
+2024-05-05	00:45:31			Connection Started
+2024-05-05	00:45:31			Connection established successfully
+2024-05-05	00:45:31			Unable to locate credentials Exception occured
+2024-05-05	00:55:20			CSV mearging started 20
+2024-05-05	00:55:20			./Merge_csv/ at line 26
+2024-05-05	00:55:20			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_00:55:20.csv
+2024-05-05	00:55:20			Connection Started
+2024-05-05	00:55:20			Connection established successfully
+2024-05-05	00:55:20			Unable to locate credentials Exception occured
+2024-05-05	01:27:07			CSV mearging started 20
+2024-05-05	01:27:07			./Merge_csv/ at line 26
+2024-05-05	01:27:07			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_01:27:07.csv
+2024-05-05	01:27:07			Connection Started
+2024-05-05	01:27:07			Connection established successfully
+2024-05-05	01:27:07			Unable to locate credentials Exception occured
