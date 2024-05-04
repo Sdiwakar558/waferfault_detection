@@ -5,54 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82972552-ed67-4470-b911-e79f59f939aa" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Training_Log/main_process.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_Log/merge_csv_for_s3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws_s3_conn/Aws_conn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer12_20012.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_000000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_223345.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_08012020_120000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_10012020_131534.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_11012020_151432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_12012020_111.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_12012020_111213.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_13012020_141000.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_14012020_113045.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_15012020_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_18012020_121532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_19012020_141432.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_20012020_135132.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_21012020_143634.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_22012020_173245.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_23012020_163456.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_24012020_150121.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_25012020_142112.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_fault_detection.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_text_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Waferdefault_15010_130532.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/wafer_07012020_041011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/wafer_16012020_134553.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/wafer_17012020_125434.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_13012020_090817.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_16012020_051629.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_20012020_090819.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_20022020_090716.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_21012020_080913.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_22022020_041119.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_23012020_011008.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_23012020_041211.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_27012020_080911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_28012020_051011.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_28012020_090817.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_28042020_031911.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_29012020_050617.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_29012020_060756.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_31012020_090811.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Log/Raw_Data_Validation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Raw_Data_Validation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload_CSVTOS3/mearge_csv_for_s3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Upload_CSVTOS3/mearge_csv_for_s3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,16 +87,16 @@
       <recent name="C:\Users\diwashar\Waferfault_detection\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.Aws_conn">
     <configuration name="Aws_conn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
         <env name="AWS_Access_key_id" value="&quot;AKIA3FLD5INE563ACC7Q&quot;" />
         <env name="AWS_Access_security_code" value="&quot;YZvq/PPSANrUDPcxK8SDDtxSh5CoJkNK4Yn2dILC&quot;" />
+        <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aws_s3_conn" />
@@ -182,8 +135,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Aws_conn" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.Aws_conn" />
     </list>
     <recent_temporary>
       <list>
