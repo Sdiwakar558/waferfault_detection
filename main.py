@@ -24,12 +24,12 @@ class maincalling_function:
         self.raw_data_validation.validate_file_columndetails(NumberofColumns)
         self.raw_data_validation.validateMissingValueInWholeColumn()
         self.Logwriter.log_writer(log_file, "Raw_Data_Validation.py   methods Completed")
-#
-#
+
 # #               Above are the line which are responsible to call
 # #               Raw_Data_Validation (file)
 # #               of class
 # #               Raw_data_validations
+
         self.Logwriter.log_writer(log_file,",merge_csv_for_s3.py      methods calling started")
         self.upload_csv_to_s3.mearge_all_csv()
         self.upload_csv_to_s3.upload_csv_s3()
