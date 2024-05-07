@@ -1,0 +1,3 @@
+\2024-05-07	14:49:37			elbow_plot started
+2024-05-07	14:49:37			Plot is saved
+2024-05-07	14:49:37			Create cluster started
