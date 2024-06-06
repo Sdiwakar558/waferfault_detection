@@ -50,3 +50,24 @@
 2024-05-07	14:49:35			Data split successfully
 2024-05-07	14:49:35			Knn imputer started
 2024-05-07	14:49:35			Knn imputer completed
+2024-05-21	21:59:30			Pure_data_provider_for_training (Methods calling started)
+2024-05-21	21:59:30			Data split successfully
+2024-05-21	21:59:30			Knn imputer started
+2024-05-21	21:59:30			Knn imputer completed
+2024-05-21	22:03:56			Pure_data_provider_for_training (Methods calling started)
+2024-05-21	22:03:56			Data split successfully
+2024-05-21	22:03:56			Knn imputer started
+2024-05-21	22:03:56			Knn imputer completed
+2024-05-21	22:08:28			Pure_data_provider_for_training (Methods calling started)
+2024-05-21	22:08:28			Data split successfully
+2024-05-21	22:08:28			Knn imputer started
+2024-05-21	22:08:28			Knn imputer completed
+2024-05-30	13:32:29			Pure_data_provider_for_training (Methods calling started)
+2024-05-30	15:53:09			Pure_data_provider_for_training (Methods calling started)
+2024-05-30	15:53:09			Data split successfully
+2024-05-30	15:53:09			Knn imputer started
+2024-05-30	15:53:09			Knn imputer completed
+2024-05-30	15:56:32			Pure_data_provider_for_training (Methods calling started)
+2024-05-30	15:56:32			Data split successfully
+2024-05-30	15:56:32			Knn imputer started
+2024-05-30	15:56:32			Knn imputer completed

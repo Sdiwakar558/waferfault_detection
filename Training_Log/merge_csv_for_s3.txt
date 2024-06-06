@@ -1,57 +1,321 @@
-2024-05-05	10:42:19			CSV mearging started 20
-2024-05-05	10:42:19			./Merge_csv/ at line 26
-2024-05-05	10:42:19			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_10:42:19.csv
-2024-05-05	10:42:19			Connection Started
-2024-05-05	10:42:19			Connection established successfully
-2024-05-05	10:42:19			Unable to locate credentials Exception occured
-2024-05-05	10:51:25			CSV mearging started 20
-2024-05-05	10:51:25			./Merge_csv/ at line 26
-2024-05-05	10:51:25			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_10:51:25.csv
-2024-05-05	10:51:25			Connection Started
-2024-05-05	10:51:25			Connection established successfully
-2024-05-05	10:51:25			Unable to locate credentials Exception occured
-2024-05-05	11:03:39			CSV mearging started 20
-2024-05-05	11:03:39			./Merge_csv/ at line 26
-2024-05-05	11:03:39			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_11:03:39.csv
-2024-05-05	11:03:39			Connection Started
-2024-05-05	11:03:39			Connection established successfully
-2024-05-05	11:03:39			Unable to locate credentials Exception occured
-2024-05-05	16:17:20			CSV mearging started 20
-2024-05-05	16:17:20			./Merge_csv/ at line 26
-2024-05-05	16:17:20			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_16:17:20.csv
-2024-05-05	16:17:20			Connection Started
-2024-05-05	16:17:20			Connection established successfully
-2024-05-05	16:17:20			Unable to locate credentials Exception occured
-2024-05-05	16:19:15			CSV mearging started 20
-2024-05-05	16:19:15			./Merge_csv/ at line 26
-2024-05-05	16:19:15			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_16:19:15.csv
-2024-05-05	16:19:15			Connection Started
-2024-05-05	16:19:15			Connection established successfully
-2024-05-05	16:19:15			Unable to locate credentials Exception occured
-2024-05-05	16:21:02			CSV mearging started 20
-2024-05-05	16:21:02			./Merge_csv/ at line 26
-2024-05-05	16:21:02			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-05_16:21:02.csv
-2024-05-05	16:21:02			Connection Started
-2024-05-05	16:21:02			Connection established successfully
-2024-05-05	16:21:02			Unable to locate credentials Exception occured
-2024-05-06	14:37:43			CSV mearging started 20
-2024-05-06	14:37:43			./Merge_csv/ at line 26
-2024-05-06	14:37:43			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-06_14:37:43.csv
-2024-05-06	14:37:43			Connection Started
-2024-05-06	14:37:43			Connection established successfully
-2024-05-06	14:37:43			Unable to locate credentials Exception occured
-2024-05-06	14:40:20			CSV mearging started 20
-2024-05-06	14:40:20			./Merge_csv/ at line 26
-2024-05-06	14:40:20			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-06_14:40:20.csv
-2024-05-06	14:40:20			Connection Started
-2024-05-06	14:40:20			Connection established successfully
-2024-05-06	14:40:20			Unable to locate credentials Exception occured
-2024-05-06	14:45:26			CSV mearging started 20
-2024-05-06	14:45:26			./Merge_csv/ at line 26
-2024-05-06	14:45:26			"['Unnamed: 0'] not found in axis" occured
-2024-05-06	14:54:17			CSV mearging started 20
-2024-05-06	14:54:17			./Merge_csv/ at line 26
-2024-05-06	14:54:17			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-06_14:54:17.csv
-2024-05-06	14:54:17			Connection Started
-2024-05-06	14:54:17			Connection established successfully
-2024-05-06	14:54:17			File successfully uploaded to AWS S3
+2024-05-30	14:57:57			file fetching from AWS S3 bucket started
+2024-05-30	14:57:57			<class 'OSError'> occurred
+2024-05-30	15:25:01			file fetching from AWS S3 bucket started
+2024-05-30	15:25:01			<class 'OSError'> occurred
+2024-05-31	15:49:45			CSV mearging started 20
+2024-05-31	15:49:45			./Merge_csv/ at line 26
+2024-05-31	15:49:45			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	16:45:03			CSV mearging started 20
+2024-05-31	16:45:03			./Merge_csv/ at line 26
+2024-05-31	16:45:03			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_16:45:03.csv
+2024-05-31	16:45:03			Connection Started
+2024-05-31	16:45:03			Connection established successfully
+2024-05-31	16:45:03			File successfully uploaded to AWS S3
+2024-05-31	16:47:28			CSV mearging started 20
+2024-05-31	16:47:28			./Merge_csv/ at line 26
+2024-05-31	16:47:28			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	16:47:53			CSV mearging started 20
+2024-05-31	16:47:53			./Merge_csv/ at line 26
+2024-05-31	16:47:53			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	16:48:15			CSV mearging started 20
+2024-05-31	16:48:15			./Merge_csv/ at line 26
+2024-05-31	16:48:15			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_16:48:15.csv
+2024-05-31	16:48:15			Connection Started
+2024-05-31	16:48:15			Connection established successfully
+2024-05-31	16:48:15			File successfully uploaded to AWS S3
+2024-05-31	16:49:07			CSV mearging started 20
+2024-05-31	16:49:07			./Merge_csv/ at line 26
+2024-05-31	16:49:07			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	16:49:25			CSV mearging started 20
+2024-05-31	16:49:25			./Merge_csv/ at line 26
+2024-05-31	16:49:25			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_16:49:25.csv
+2024-05-31	16:49:25			Connection Started
+2024-05-31	16:49:25			Connection established successfully
+2024-05-31	16:49:25			File successfully uploaded to AWS S3
+2024-05-31	16:59:26			CSV mearging started 20
+2024-05-31	16:59:26			./Merge_csv/ at line 26
+2024-05-31	16:59:26			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	17:00:09			CSV mearging started 20
+2024-05-31	17:00:09			./Merge_csv/ at line 26
+2024-05-31	17:00:09			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	17:00:24			CSV mearging started 20
+2024-05-31	17:00:24			./Merge_csv/ at line 26
+2024-05-31	17:00:24			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_17:00:24.csv
+2024-05-31	17:00:24			Connection Started
+2024-05-31	17:00:24			Connection established successfully
+2024-05-31	17:00:24			File successfully uploaded to AWS S3
+2024-05-31	17:12:17			CSV mearging started 20
+2024-05-31	17:12:17			./Merge_csv/ at line 26
+2024-05-31	17:12:17			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_17:12:17.csv
+2024-05-31	17:12:17			Connection Started
+2024-05-31	17:12:17			Connection established successfully
+2024-05-31	17:12:17			File successfully uploaded to AWS S3
+2024-05-31	17:27:07			CSV mearging started 20
+2024-05-31	17:27:07			./Merge_csv/ at line 26
+2024-05-31	17:27:07			"['Unnamed: 0'] not found in axis" occured
+2024-05-31	17:27:30			CSV mearging started 20
+2024-05-31	17:27:30			./Merge_csv/ at line 26
+2024-05-31	17:27:30			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_17:27:30.csv
+2024-05-31	17:27:30			Connection Started
+2024-05-31	17:27:30			Connection established successfully
+2024-05-31	17:27:30			File successfully uploaded to AWS S3
+2024-05-31	17:49:14			CSV mearging started 20
+2024-05-31	17:49:14			./Merge_csv/ at line 26
+2024-05-31	17:49:14			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-05-31_17:49:14.csv
+2024-05-31	17:49:14			Connection Started
+2024-05-31	17:49:14			Connection established successfully
+2024-05-31	17:49:14			File successfully uploaded to AWS S3
+2024-05-31	18:02:28			CSV mearging started 20
+2024-05-31	18:02:28			./Merge_csv/ at line 26
+2024-05-31	18:02:28			"['Unnamed: 0'] not found in axis" occured
+2024-06-04	14:57:41			CSV mearging started 20
+2024-06-04	14:57:41			./Merge_csv/ at line 26
+2024-06-04	14:57:41			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_14:57:41.csv
+2024-06-04	14:57:41			Connection Started
+2024-06-04	14:57:41			Connection established successfully
+2024-06-04	14:58:18			CSV mearging started 20
+2024-06-04	14:58:18			./Merge_csv/ at line 26
+2024-06-04	14:58:18			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_14:58:18.csv
+2024-06-04	14:58:18			Connection Started
+2024-06-04	14:58:18			Connection established successfully
+2024-06-04	14:58:18			File successfully uploaded to AWS S3
+2024-06-04	15:10:32			CSV mearging started 20
+2024-06-04	15:10:32			./Merge_csv/ at line 26
+2024-06-04	15:10:32			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:10:32.csv
+2024-06-04	15:10:32			Connection Started
+2024-06-04	15:10:32			Connection established successfully
+2024-06-04	15:10:32			File successfully uploaded to AWS S3
+2024-06-04	15:11:38			CSV mearging started 20
+2024-06-04	15:11:38			./Merge_csv/ at line 26
+2024-06-04	15:11:38			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:11:38.csv
+2024-06-04	15:11:38			Connection Started
+2024-06-04	15:11:38			Connection established successfully
+2024-06-04	15:11:38			File successfully uploaded to AWS S3
+2024-06-04	15:13:22			CSV mearging started 20
+2024-06-04	15:13:22			./Merge_csv/ at line 26
+2024-06-04	15:13:22			"['Unnamed: 0'] not found in axis" occured
+2024-06-04	15:13:48			CSV mearging started 20
+2024-06-04	15:13:48			./Merge_csv/ at line 26
+2024-06-04	15:13:48			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:13:48.csv
+2024-06-04	15:13:48			Connection Started
+2024-06-04	15:13:48			Connection established successfully
+2024-06-04	15:13:48			File successfully uploaded to AWS S3
+2024-06-04	15:16:49			CSV mearging started 20
+2024-06-04	15:16:49			./Merge_csv/ at line 26
+2024-06-04	15:16:49			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:16:49.csv
+2024-06-04	15:16:49			Connection Started
+2024-06-04	15:16:49			Connection established successfully
+2024-06-04	15:16:49			File successfully uploaded to AWS S3
+2024-06-04	15:21:31			CSV mearging started 20
+2024-06-04	15:21:31			./Merge_csv/ at line 26
+2024-06-04	15:21:31			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:21:31.csv
+2024-06-04	15:21:31			Connection Started
+2024-06-04	15:21:31			Connection established successfully
+2024-06-04	15:21:31			File successfully uploaded to AWS S3
+2024-06-04	15:26:11			CSV mearging started 20
+2024-06-04	15:26:11			./Merge_csv/ at line 26
+2024-06-04	15:26:11			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:26:11.csv
+2024-06-04	15:26:11			Connection Started
+2024-06-04	15:26:11			Connection established successfully
+2024-06-04	15:26:11			File successfully uploaded to AWS S3
+2024-06-04	15:26:49			CSV mearging started 20
+2024-06-04	15:26:49			./Merge_csv/ at line 26
+2024-06-04	15:26:49			"['Unnamed: 0'] not found in axis" occured
+2024-06-04	15:27:23			CSV mearging started 20
+2024-06-04	15:27:23			./Merge_csv/ at line 26
+2024-06-04	15:27:23			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:27:23.csv
+2024-06-04	15:27:23			Connection Started
+2024-06-04	15:27:23			Connection established successfully
+2024-06-04	15:27:23			File successfully uploaded to AWS S3
+2024-06-04	15:57:54			CSV mearging started 20
+2024-06-04	15:57:54			./Merge_csv/ at line 26
+2024-06-04	15:57:54			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_15:57:54.csv
+2024-06-04	15:57:54			Connection Started
+2024-06-04	15:57:54			Connection established successfully
+2024-06-04	15:57:54			File successfully uploaded to AWS S3
+2024-06-04	16:08:35			CSV mearging started 20
+2024-06-04	16:08:35			./Merge_csv/ at line 26
+2024-06-04	16:08:35			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:08:35.csv
+2024-06-04	16:08:35			Connection Started
+2024-06-04	16:08:35			Connection established successfully
+2024-06-04	16:08:35			File successfully uploaded to AWS S3
+2024-06-04	16:17:33			CSV mearging started 20
+2024-06-04	16:17:33			./Merge_csv/ at line 26
+2024-06-04	16:17:33			"['Unnamed: 0'] not found in axis" occured
+2024-06-04	16:18:20			CSV mearging started 20
+2024-06-04	16:18:20			./Merge_csv/ at line 26
+2024-06-04	16:18:20			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:18:20.csv
+2024-06-04	16:18:20			Connection Started
+2024-06-04	16:18:20			Connection established successfully
+2024-06-04	16:18:20			File successfully uploaded to AWS S3
+2024-06-04	16:19:46			CSV mearging started 20
+2024-06-04	16:19:46			./Merge_csv/ at line 26
+2024-06-04	16:19:46			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:19:46.csv
+2024-06-04	16:19:46			Connection Started
+2024-06-04	16:19:46			Connection established successfully
+2024-06-04	16:19:46			File successfully uploaded to AWS S3
+2024-06-04	16:21:46			CSV mearging started 20
+2024-06-04	16:21:46			./Merge_csv/ at line 26
+2024-06-04	16:21:46			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:21:46.csv
+2024-06-04	16:21:46			Connection Started
+2024-06-04	16:21:46			Connection established successfully
+2024-06-04	16:21:46			File successfully uploaded to AWS S3
+2024-06-04	16:23:31			CSV mearging started 20
+2024-06-04	16:23:31			./Merge_csv/ at line 26
+2024-06-04	16:23:31			"['Unnamed: 0'] not found in axis" occured
+2024-06-04	16:23:44			CSV mearging started 20
+2024-06-04	16:23:44			./Merge_csv/ at line 26
+2024-06-04	16:23:44			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:23:44.csv
+2024-06-04	16:23:44			Connection Started
+2024-06-04	16:23:44			Connection established successfully
+2024-06-04	16:23:44			File successfully uploaded to AWS S3
+2024-06-04	16:24:28			CSV mearging started 20
+2024-06-04	16:24:28			./Merge_csv/ at line 26
+2024-06-04	16:24:28			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:24:28.csv
+2024-06-04	16:24:28			Connection Started
+2024-06-04	16:24:28			Connection established successfully
+2024-06-04	16:24:28			File successfully uploaded to AWS S3
+2024-06-04	16:27:27			CSV mearging started 20
+2024-06-04	16:27:27			./Merge_csv/ at line 26
+2024-06-04	16:27:27			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:27:27.csv
+2024-06-04	16:27:27			Connection Started
+2024-06-04	16:27:27			Connection established successfully
+2024-06-04	16:27:27			File successfully uploaded to AWS S3
+2024-06-04	16:45:38			CSV mearging started 20
+2024-06-04	16:45:38			./Merge_csv/ at line 26
+2024-06-04	16:45:38			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_16:45:38.csv
+2024-06-04	16:45:38			Connection Started
+2024-06-04	16:45:38			Connection established successfully
+2024-06-04	16:45:38			File successfully uploaded to AWS S3
+2024-06-04	17:03:01			CSV mearging started 20
+2024-06-04	17:03:01			./Merge_csv/ at line 26
+2024-06-04	17:03:01			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_17:03:01.csv
+2024-06-04	17:03:01			Connection Started
+2024-06-04	17:03:01			Connection established successfully
+2024-06-04	17:03:01			File successfully uploaded to AWS S3
+2024-06-04	21:28:37			CSV mearging started 20
+2024-06-04	21:28:37			./Merge_csv/ at line 26
+2024-06-04	21:28:37			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_21:28:37.csv
+2024-06-04	21:28:37			Connection Started
+2024-06-04	21:28:37			Connection established successfully
+2024-06-04	21:28:37			File successfully uploaded to AWS S3
+2024-06-04	21:58:45			CSV mearging started 20
+2024-06-04	21:58:45			./Merge_csv/ at line 26
+2024-06-04	21:58:45			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-04_21:58:45.csv
+2024-06-04	21:58:45			Connection Started
+2024-06-04	21:58:45			Connection established successfully
+2024-06-04	21:58:45			File successfully uploaded to AWS S3
+2024-06-05	11:22:25			CSV mearging started 20
+2024-06-05	11:22:25			./Merge_csv/ at line 26
+2024-06-05	11:22:25			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_11:22:25.csv
+2024-06-05	11:22:25			Connection Started
+2024-06-05	11:22:25			Connection established successfully
+2024-06-05	11:22:25			File successfully uploaded to AWS S3
+2024-06-05	11:23:37			CSV mearging started 20
+2024-06-05	11:23:37			./Merge_csv/ at line 26
+2024-06-05	11:23:37			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_11:23:37.csv
+2024-06-05	11:23:37			Connection Started
+2024-06-05	11:23:37			Connection established successfully
+2024-06-05	11:23:37			File successfully uploaded to AWS S3
+2024-06-05	11:38:49			CSV mearging started 20
+2024-06-05	11:38:49			./Merge_csv/ at line 26
+2024-06-05	11:38:49			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_11:38:49.csv
+2024-06-05	11:38:49			Connection Started
+2024-06-05	11:38:49			Connection established successfully
+2024-06-05	11:38:49			File successfully uploaded to AWS S3
+2024-06-05	14:26:47			CSV mearging started 20
+2024-06-05	14:26:47			./Merge_csv/ at line 26
+2024-06-05	14:26:47			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_14:26:47.csv
+2024-06-05	14:26:47			Connection Started
+2024-06-05	14:26:47			Connection established successfully
+2024-06-05	14:26:47			File successfully uploaded to AWS S3
+2024-06-05	14:36:34			CSV mearging started 20
+2024-06-05	14:36:34			./Merge_csv/ at line 26
+2024-06-05	14:36:34			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_14:36:34.csv
+2024-06-05	14:36:34			Connection Started
+2024-06-05	14:36:34			Connection established successfully
+2024-06-05	14:36:34			File successfully uploaded to AWS S3
+2024-06-05	21:28:55			CSV mearging started 20
+2024-06-05	21:28:55			./Merge_csv/ at line 26
+2024-06-05	21:28:55			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_21:28:55.csv
+2024-06-05	21:28:55			Connection Started
+2024-06-05	21:28:55			Connection established successfully
+2024-06-05	21:28:55			File successfully uploaded to AWS S3
+2024-06-05	21:39:11			CSV mearging started 20
+2024-06-05	21:39:11			./Merge_csv/ at line 26
+2024-06-05	21:39:11			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_21:39:11.csv
+2024-06-05	21:39:11			Connection Started
+2024-06-05	21:39:11			Connection established successfully
+2024-06-05	21:39:11			File successfully uploaded to AWS S3
+2024-06-05	21:47:01			CSV mearging started 20
+2024-06-05	21:47:01			./Merge_csv/ at line 26
+2024-06-05	21:47:01			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_21:47:01.csv
+2024-06-05	21:47:01			Connection Started
+2024-06-05	21:47:01			Connection established successfully
+2024-06-05	21:47:01			File successfully uploaded to AWS S3
+2024-06-05	21:58:26			CSV mearging started 20
+2024-06-05	21:58:26			./Merge_csv/ at line 26
+2024-06-05	21:58:26			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_21:58:26.csv
+2024-06-05	21:58:26			Connection Started
+2024-06-05	21:58:26			Connection established successfully
+2024-06-05	21:58:26			File successfully uploaded to AWS S3
+2024-06-05	22:10:11			CSV mearging started 20
+2024-06-05	22:10:11			./Merge_csv/ at line 26
+2024-06-05	22:10:11			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_22:10:11.csv
+2024-06-05	22:10:11			Connection Started
+2024-06-05	22:10:11			Connection established successfully
+2024-06-05	22:10:11			File successfully uploaded to AWS S3
+2024-06-05	22:17:59			CSV mearging started 20
+2024-06-05	22:17:59			./Merge_csv/ at line 26
+2024-06-05	22:17:59			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_22:17:59.csv
+2024-06-05	22:17:59			Connection Started
+2024-06-05	22:17:59			Connection established successfully
+2024-06-05	22:17:59			File successfully uploaded to AWS S3
+2024-06-05	22:35:59			CSV mearging started 20
+2024-06-05	22:35:59			./Merge_csv/ at line 26
+2024-06-05	22:35:59			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_22:35:59.csv
+2024-06-05	22:35:59			Connection Started
+2024-06-05	22:35:59			Connection established successfully
+2024-06-05	22:35:59			File successfully uploaded to AWS S3
+2024-06-05	22:43:02			CSV mearging started 20
+2024-06-05	22:43:02			./Merge_csv/ at line 26
+2024-06-05	22:43:02			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_22:43:02.csv
+2024-06-05	22:43:02			Connection Started
+2024-06-05	22:43:02			Connection established successfully
+2024-06-05	22:43:02			File successfully uploaded to AWS S3
+2024-06-05	22:52:01			CSV mearging started 20
+2024-06-05	22:52:01			./Merge_csv/ at line 26
+2024-06-05	22:52:01			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_22:52:01.csv
+2024-06-05	22:52:01			Connection Started
+2024-06-05	22:52:01			Connection established successfully
+2024-06-05	22:52:01			File successfully uploaded to AWS S3
+2024-06-05	23:23:44			CSV mearging started 20
+2024-06-05	23:23:44			./Merge_csv/ at line 26
+2024-06-05	23:23:44			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_23:23:44.csv
+2024-06-05	23:23:44			Connection Started
+2024-06-05	23:23:44			Connection established successfully
+2024-06-05	23:23:44			File successfully uploaded to AWS S3
+2024-06-05	23:29:22			CSV mearging started 20
+2024-06-05	23:29:22			./Merge_csv/ at line 26
+2024-06-05	23:29:22			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-05_23:29:22.csv
+2024-06-05	23:29:22			Connection Started
+2024-06-05	23:29:22			Connection established successfully
+2024-06-05	23:29:22			File successfully uploaded to AWS S3
+2024-06-06	12:02:51			CSV mearging started 20
+2024-06-06	12:02:51			./Merge_csv/ at line 26
+2024-06-06	12:02:51			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-06_12:02:51.csv
+2024-06-06	12:02:51			Connection Started
+2024-06-06	12:02:51			Connection established successfully
+2024-06-06	12:02:51			File successfully uploaded to AWS S3
+2024-06-06	12:12:57			CSV mearging started 20
+2024-06-06	12:12:57			./Merge_csv/ at line 26
+2024-06-06	12:12:57			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-06_12:12:57.csv
+2024-06-06	12:12:57			Connection Started
+2024-06-06	12:12:57			Connection established successfully
+2024-06-06	12:12:57			File successfully uploaded to AWS S3
+2024-06-06	12:20:28			CSV mearging started 20
+2024-06-06	12:20:28			./Merge_csv/ at line 26
+2024-06-06	12:20:28			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-06_12:20:28.csv
+2024-06-06	12:20:28			Connection Started
+2024-06-06	12:20:28			Connection established successfully
+2024-06-06	12:20:28			File successfully uploaded to AWS S3
