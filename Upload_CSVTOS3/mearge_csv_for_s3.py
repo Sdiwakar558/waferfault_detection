@@ -75,8 +75,25 @@ class upload_csv_to_s3:
 
     def fetch_csv_from_s3(self):
         try:
+            log_file = open('./Training_Log/merge_csv_for_s3.txt','a+')
+            self.Logwriter.log_writer(log_file,"file fetching from AWS S3 bucket started")
             client = self.aws_client_conn
-            buckets = "waferfaultdatacsv"
+            buckets = 'waferfaultdatacsv'
+            Local_folder_path = r'C:\Users\diwashar\Waferfault_detection\pythonProject\Final_csv_file_fromAWS_S3'
             response_from_s3 = client.list_objects_v2(Bucket = buckets)
+            file_name_to_download = response_from_s3['Contents'][0]['Key']
+            client.download_file(buckets,file_name_to_download, Local_folder_path)
+            print('download completed')
+            self.Logwriter.log_writer(log_file,f"{response_from_s3} recieve this file from AWS S3 bucket")
+            log_file.close()
+            return response_from_s3
+        except OSError:
+            log_file = open('./Training_Log/merge_csv_for_s3.txt','a+')
+            self.Logwriter.log_writer(log_file,f"{OSError} occurred")
+            log_file.close()
         except Exception as e:
-            pass
+            log_file = open('./Training_Log/merge_csv_for_s3.txt', 'a+')
+            self.Logwriter.log_writer(log_file,f"{e} error occurred")
+            log_file.close()
+
+

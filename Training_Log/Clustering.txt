@@ -1,3 +1,146 @@
 \2024-05-07	14:49:37			elbow_plot started
 2024-05-07	14:49:37			Plot is saved
 2024-05-07	14:49:37			Create cluster started
+2024-05-21	21:59:33			elbow_plot started
+2024-05-21	21:59:33			Plot is saved
+2024-05-21	21:59:33			Create cluster started
+2024-05-21	22:08:30			elbow_plot started
+2024-05-21	22:08:30			Plot is saved
+2024-05-21	22:08:30			Create cluster started
+2024-05-30	16:50:22			elbow_plot started
+2024-05-30	16:50:22			Plot is saved
+2024-05-30	16:50:22			Create cluster started
+2024-05-31	16:48:15			elbow_plot started
+2024-05-31	16:48:15			Plot is saved
+2024-05-31	16:48:15			Create cluster started
+2024-05-31	16:49:25			elbow_plot started
+2024-05-31	16:49:25			Plot is saved
+2024-05-31	16:49:25			Create cluster started
+2024-05-31	17:00:24			elbow_plot started
+2024-05-31	17:00:24			Plot is saved
+2024-05-31	17:00:24			Create cluster started
+2024-05-31	17:12:17			elbow_plot started
+2024-05-31	17:12:17			Plot is saved
+2024-05-31	17:12:17			Create cluster started
+2024-05-31	17:27:30			elbow_plot started
+2024-05-31	17:27:30			Plot is saved
+2024-05-31	17:27:30			Create cluster started
+2024-05-31	17:49:14			elbow_plot started
+2024-05-31	17:49:14			Plot is saved
+2024-05-31	17:49:14			Create cluster started
+2024-06-04	14:58:18			elbow_plot started
+2024-06-04	14:58:18			Plot is saved
+2024-06-04	14:58:18			Create cluster started
+2024-06-04	15:10:32			elbow_plot started
+2024-06-04	15:10:32			Plot is saved
+2024-06-04	15:10:32			Create cluster started
+2024-06-04	15:11:38			elbow_plot started
+2024-06-04	15:11:38			Plot is saved
+2024-06-04	15:13:48			elbow_plot started
+2024-06-04	15:13:48			Plot is saved
+2024-06-04	15:13:48			Create cluster started
+2024-06-04	15:16:49			elbow_plot started
+2024-06-04	15:16:49			Plot is saved
+2024-06-04	15:16:49			Create cluster started
+2024-06-04	15:21:31			elbow_plot started
+2024-06-04	15:21:31			Plot is saved
+2024-06-04	15:21:31			Create cluster started
+2024-06-04	15:26:11			elbow_plot started
+2024-06-04	15:26:11			Plot is saved
+2024-06-04	15:26:11			Create cluster started
+2024-06-04	15:27:23			elbow_plot started
+2024-06-04	15:27:23			Plot is saved
+2024-06-04	15:27:23			Create cluster started
+2024-06-04	15:57:54			elbow_plot started
+2024-06-04	15:57:54			Plot is saved
+2024-06-04	15:57:54			Create cluster started
+2024-06-04	16:08:35			elbow_plot started
+2024-06-04	16:08:35			Plot is saved
+2024-06-04	16:08:35			Create cluster started
+2024-06-04	16:18:20			elbow_plot started
+2024-06-04	16:18:20			Plot is saved
+2024-06-04	16:18:20			Create cluster started
+2024-06-04	16:19:46			elbow_plot started
+2024-06-04	16:19:46			Plot is saved
+2024-06-04	16:19:46			Create cluster started
+2024-06-04	16:21:46			elbow_plot started
+2024-06-04	16:21:46			Plot is saved
+2024-06-04	16:21:46			Create cluster started
+2024-06-04	16:23:44			elbow_plot started
+2024-06-04	16:23:44			Plot is saved
+2024-06-04	16:23:44			Create cluster started
+2024-06-04	16:24:28			elbow_plot started
+2024-06-04	16:24:28			Plot is saved
+2024-06-04	16:24:28			Create cluster started
+2024-06-04	16:27:27			elbow_plot started
+2024-06-04	16:27:27			Plot is saved
+2024-06-04	16:27:27			Create cluster started
+2024-06-04	16:45:38			elbow_plot started
+2024-06-04	16:45:38			Plot is saved
+2024-06-04	16:45:38			Create cluster started
+2024-06-04	17:03:01			elbow_plot started
+2024-06-04	17:03:01			Plot is saved
+2024-06-04	17:03:01			Create cluster started
+2024-06-04	21:28:37			elbow_plot started
+2024-06-04	21:28:37			Plot is saved
+2024-06-04	21:28:37			Create cluster started
+2024-06-04	21:58:45			elbow_plot started
+2024-06-04	21:58:45			Plot is saved
+2024-06-04	21:58:45			Create cluster started
+2024-06-05	11:22:25			elbow_plot started
+2024-06-05	11:22:25			Plot is saved
+2024-06-05	11:22:25			Create cluster started
+2024-06-05	11:23:37			elbow_plot started
+2024-06-05	11:23:37			Plot is saved
+2024-06-05	11:23:37			Create cluster started
+2024-06-05	11:38:49			elbow_plot started
+2024-06-05	11:38:49			Plot is saved
+2024-06-05	11:38:49			Create cluster started
+2024-06-05	14:26:47			elbow_plot started
+2024-06-05	14:26:47			Plot is saved
+2024-06-05	14:26:47			Create cluster started
+2024-06-05	14:36:34			elbow_plot started
+2024-06-05	14:36:34			Plot is saved
+2024-06-05	14:36:34			Create cluster started
+2024-06-05	21:28:55			elbow_plot started
+2024-06-05	21:28:55			Plot is saved
+2024-06-05	21:28:55			Create cluster started
+2024-06-05	21:39:11			elbow_plot started
+2024-06-05	21:39:11			Plot is saved
+2024-06-05	21:39:11			Create cluster started
+2024-06-05	21:47:01			elbow_plot started
+2024-06-05	21:47:01			Plot is saved
+2024-06-05	21:47:01			Create cluster started
+2024-06-05	21:58:26			elbow_plot started
+2024-06-05	21:58:26			Plot is saved
+2024-06-05	21:58:26			Create cluster started
+2024-06-05	22:10:11			elbow_plot started
+2024-06-05	22:10:11			Plot is saved
+2024-06-05	22:10:11			Create cluster started
+2024-06-05	22:17:59			elbow_plot started
+2024-06-05	22:17:59			Plot is saved
+2024-06-05	22:17:59			Create cluster started
+2024-06-05	22:35:59			elbow_plot started
+2024-06-05	22:35:59			Plot is saved
+2024-06-05	22:35:59			Create cluster started
+2024-06-05	22:43:02			elbow_plot started
+2024-06-05	22:43:02			Plot is saved
+2024-06-05	22:43:02			Create cluster started
+2024-06-05	22:52:01			elbow_plot started
+2024-06-05	22:52:01			Plot is saved
+2024-06-05	22:52:01			Create cluster started
+2024-06-05	23:23:44			elbow_plot started
+2024-06-05	23:23:44			Plot is saved
+2024-06-05	23:23:44			Create cluster started
+2024-06-05	23:29:22			elbow_plot started
+2024-06-05	23:29:22			Plot is saved
+2024-06-05	23:29:22			Create cluster started
+2024-06-06	12:02:51			elbow_plot started
+2024-06-06	12:02:51			Plot is saved
+2024-06-06	12:02:51			Create cluster started
+2024-06-06	12:12:57			elbow_plot started
+2024-06-06	12:12:57			Plot is saved
+2024-06-06	12:12:57			Create cluster started
+2024-06-06	12:20:28			elbow_plot started
+2024-06-06	12:20:28			Plot is saved
+2024-06-06	12:20:28			Create cluster started
