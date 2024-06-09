@@ -29,6 +29,7 @@ class Training_model_class:
             Final_precessed_data = pd.DataFrame(arr, columns=X.columns)
             self.logwriter.log_writer(log_file, "Knn imputer completed")
             log_file.close()
+
             return Final_precessed_data, Y
         except Exception as e:
             log_file = open('./Training_Log/Training_model_data.txt', 'a+')

@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from Training_model_data import Training_model_class
 from Best_model_Tuner.Model_Tuner import Model_Tuner
 from Data_Preprocessing.Clustering import Create_Kmeans_Clustering
-
+from File_operation.File_methods import File_operation
 
 
 class maincalling_function:
@@ -19,7 +19,7 @@ class maincalling_function:
         self.upload_csv_to_s3 = upload_csv_to_s3()
         self.Training_model_class = Training_model_class()
         self.Model_Tuner = Model_Tuner()
-
+        self.training_data = Training_model_class().pure_data_provider_for_training()
         self.Logwriter = Logger()
 
     def calling_function_arrangement(self):
@@ -53,38 +53,35 @@ class maincalling_function:
 
         # spliting data in independent,dependent
 
-        training_data = self.Training_model_class.pure_data_provider_for_training()
-        independent_data_X, dependent_data_Y = training_data[0], training_data[1]
+
+        self.independent_data_X, self.dependent_data_Y = self.training_data[0], self.training_data[1]
 
         # Applying the clustering approach
 
         kmeans_cluster_return = self.Create_kmeans_Clustering
-        number_of_cluster = kmeans_cluster_return.elbow_plot(independent_data_X)
-        independent_data_X_with_cluster = kmeans_cluster_return.create_cluster(independent_data_X,number_of_cluster)
+        number_of_cluster = kmeans_cluster_return.elbow_plot(self.independent_data_X)
+        independent_data_X_with_cluster = kmeans_cluster_return.create_cluster(self.independent_data_X,number_of_cluster)
         independent_data_X_with_cluster['Results'] = dependent_data_Y
         for cluster_number in range(number_of_cluster):
             individual_cluster_data = independent_data_X_with_cluster[independent_data_X_with_cluster['Cluster']==cluster_number]
             dependent_data_Y_for_distinct_cluster = individual_cluster_data['Results']
             individual_cluster_data_without_cluster_label = individual_cluster_data.drop(['Results','Cluster'],axis = 1)
             X_train,X_test,Y_train,Y_test = train_test_split(individual_cluster_data_without_cluster_label,dependent_data_Y_for_distinct_cluster)
-            Final_model_details=self.Model_Tuner.get_best_model(X_train,Y_train,X_test,Y_test)
-            print(Final_model_details)
-
-
-        # training Ml model start from here
-        # training Ml model start from here
-        # training Ml model start from here
-        #          cleaning data and imputing NAN value with KNN_imputer
-        #
-        # Train_X,Test_X,Train_Y,Test_Y = train_test_split(independent_data_X,dependent_data_Y,test_size=.33,random_state=42)
-        # best_model_data =Model_Tuner().get_best_model(Train_X,Train_Y,Test_X,Test_Y)
-        # print(best_model_data)
+            Final_model,model_name=self.Model_Tuner.get_best_model(X_train,Y_train,X_test,Y_test)
+            File_operation().save_model(Final_model,model_name)
 
         log_file.close()
-
+    def predict_model(self):
+        independent_data_X= self.training_data[0]
+        File_operation().load_model(independent_data_X)
 
 
 
 if __name__ == "__main__":
     # data_from_s3 = upload_csv_to_s3().fetch_csv_from_s3()
-    maincalling_function().calling_function_arrangement()
+    # maincalling_function().calling_function_arrangement()
+    maincalling_function().predict_model()
+
+
+
+

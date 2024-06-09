@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82972552-ed67-4470-b911-e79f59f939aa" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Training_Log/Model_Tuner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_Log/Training_model_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_Model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_operation/File_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Merge_csv/Final_2024-06-09_Training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/XG_boost.sav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training_Log/File_methods.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Best_model_Tuner/Model_Tuner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Best_model_Tuner/Model_Tuner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Preprocessing/Clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Preprocessing/Clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Merge_csv/Final_2024-05-06_Training.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge_csv/Final_2024-06-06_Training.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer12_20012.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_000000.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_223345.csv" beforeDir="false" />
@@ -54,15 +54,13 @@
       <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_29012020_060756.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Good_Raw/wafer_31012020_090811.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_Log/Clustering.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Clustering.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Log/Data_Preprocessing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Data_Preprocessing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Log/Model_Tuner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Model_Tuner.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_Log/Raw_Data_Validation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Raw_Data_Validation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_Log/Training_model.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Training_model.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Log/Training_model_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/Training_model_data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_Log/main_process.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/main_process.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_Log/merge_csv_for_s3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/merge_csv_for_s3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_model_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload_CSVTOS3/mearge_csv_for_s3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Upload_CSVTOS3/mearge_csv_for_s3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeans_elbo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_model_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_model_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +95,12 @@
       </branch-storage>
     </favorite-branches>
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="branch1" />
@@ -116,6 +120,9 @@
     &quot;accountId&quot;: &quot;0a546336-598e-4df3-94e3-f74aa68e08fb&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Training_Model.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -127,25 +134,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Aws_conn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Clustering.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Data_Preprocessing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Model_Tuner.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Raw_Data_Validation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Training_Model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Training_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Training_model_data.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.mearge_csv_for_s3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;branch&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diwashar/Waferfault_detection/pythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Aws_conn.executor": "Run",
+    "Python.Clustering.executor": "Run",
+    "Python.Data_Preprocessing.executor": "Run",
+    "Python.File_methods.executor": "Run",
+    "Python.Model_Tuner.executor": "Run",
+    "Python.Raw_Data_Validation.executor": "Run",
+    "Python.Training_Model.executor": "Run",
+    "Python.Training_model.executor": "Run",
+    "Python.Training_model_data.executor": "Debug",
+    "Python.main.executor": "Debug",
+    "Python.mearge_csv_for_s3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "branch",
+    "last_opened_file_path": "C:/Users/diwashar/Waferfault_detection/pythonProject",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diwashar\Waferfault_detection\pythonProject" />
@@ -171,6 +179,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aws_s3_conn/Aws_conn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_operation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_operation/File_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,14 +302,16 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Aws_conn" />
-      <item itemvalue="Python.Model_Tuner" />
       <item itemvalue="Python.Training_Model" />
-      <item itemvalue="Python.Training_model_data" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.Aws_conn" />
+      <item itemvalue="Python.File_methods" />
+      <item itemvalue="Python.Model_Tuner" />
+      <item itemvalue="Python.Training_model_data" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.File_methods" />
         <item itemvalue="Python.Training_model_data" />
         <item itemvalue="Python.Model_Tuner" />
       </list>
@@ -397,13 +429,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Best_model_Tuner/Model_Tuner.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
