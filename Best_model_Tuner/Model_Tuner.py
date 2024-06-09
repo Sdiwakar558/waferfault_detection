@@ -82,9 +82,9 @@ class Model_Tuner:
 
 
             if self.Random_forest_score>self.Xgboost_score:
-                 return self.Random_forest
+                 return self.Random_forest,'Random_forest'
             else:
-                return self.Xgboost
+                return self.Xgboost,'XG_boost'
         except Exception as e:
             log_file = open('./Training_Log/Model_Tuner.txt','a+')
             self.logwriter.log_writer(log_file,f'{e} occured')

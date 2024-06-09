@@ -13,3 +13,102 @@
 2024-06-06	12:20:29			Finding best parameter started
 2024-06-06	12:20:29			got score 1.0 accuracy score
 2024-06-06	12:20:29			Got this 1.0 Random_forest_score score from accuracy_score
+2024-06-06	16:53:22			Prameter finding for Xgboost model started
+2024-06-06	16:53:22			Finding best parameter started
+2024-06-06	16:59:00			Prameter finding for Xgboost model started
+2024-06-06	16:59:00			Finding best parameter started
+2024-06-06	17:04:18			Prameter finding for Xgboost model started
+2024-06-06	17:04:18			Model_tuner calling started
+2024-06-06	17:04:18			Finding best parameter started
+2024-06-06	17:04:18			got score 0.5250257997936016 from roc_auc_score
+2024-06-06	17:04:18			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-06	17:27:25			Prameter finding for Xgboost model started
+2024-06-06	17:27:25			Model_tuner calling started
+2024-06-06	17:27:25			Finding best parameter started
+2024-06-06	17:27:25			got score 0.5 from roc_auc_score
+2024-06-06	17:27:25			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-08	23:58:37			Prameter finding for Xgboost model started
+2024-06-08	23:58:37			Model_tuner calling started
+2024-06-08	23:58:37			Finding best parameter started
+2024-06-08	23:58:37			got score 0.5 from roc_auc_score
+2024-06-08	23:58:37			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	00:07:05			Prameter finding for Xgboost model started
+2024-06-09	00:07:05			Model_tuner calling started
+2024-06-09	00:07:05			Finding best parameter started
+2024-06-09	00:07:05			got score 0.5 from roc_auc_score
+2024-06-09	00:07:05			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	00:13:57			Prameter finding for Xgboost model started
+2024-06-09	00:13:57			Model_tuner calling started
+2024-06-09	00:13:57			Finding best parameter started
+2024-06-09	00:13:57			got score 0.5 from roc_auc_score
+2024-06-09	00:13:57			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	00:19:08			Prameter finding for Xgboost model started
+2024-06-09	00:19:08			Model_tuner calling started
+2024-06-09	00:19:08			Finding best parameter started
+2024-06-09	00:19:08			got score 0.4928571428571429 from roc_auc_score
+2024-06-09	00:19:08			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	00:25:04			Prameter finding for Xgboost model started
+2024-06-09	00:25:04			Model_tuner calling started
+2024-06-09	00:25:04			Finding best parameter started
+2024-06-09	00:25:04			got score 0.5 from roc_auc_score
+2024-06-09	00:25:04			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	00:32:26			Prameter finding for Xgboost model started
+2024-06-09	00:32:26			Model_tuner calling started
+2024-06-09	00:32:26			Finding best parameter started
+2024-06-09	00:32:26			got score 0.5714285714285714 from roc_auc_score
+2024-06-09	00:32:26			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	11:17:07			Prameter finding for Xgboost model started
+2024-06-09	11:17:07			Model_tuner calling started
+2024-06-09	11:17:07			Finding best parameter started
+2024-06-09	11:17:07			got score 0.5 from roc_auc_score
+2024-06-09	11:17:07			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	11:27:15			Prameter finding for Xgboost model started
+2024-06-09	11:27:15			Model_tuner calling started
+2024-06-09	11:27:15			Finding best parameter started
+2024-06-09	11:27:15			got score 0.5 from roc_auc_score
+2024-06-09	11:27:15			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	11:48:52			Prameter finding for Xgboost model started
+2024-06-09	11:48:52			Model_tuner calling started
+2024-06-09	11:48:52			Finding best parameter started
+2024-06-09	11:48:52			got score 0.5277777777777778 from roc_auc_score
+2024-06-09	11:48:52			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	11:48:52			Prameter finding for Xgboost model started
+2024-06-09	11:48:52			Model_tuner calling started
+2024-06-09	11:48:52			Finding best parameter started
+2024-06-09	11:48:52			got score 0.5 from roc_auc_score
+2024-06-09	11:48:52			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	11:48:52			Prameter finding for Xgboost model started
+2024-06-09	11:48:52			Model_tuner calling started
+2024-06-09	11:48:52			Finding best parameter started
+2024-06-09	11:48:52			got score 0.5 from roc_auc_score
+2024-06-09	11:48:52			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	12:10:40			Prameter finding for Xgboost model started
+2024-06-09	12:10:40			Model_tuner calling started
+2024-06-09	12:10:40			Finding best parameter started
+2024-06-09	12:10:40			got score 0.5 from roc_auc_score
+2024-06-09	12:10:40			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	12:10:40			Prameter finding for Xgboost model started
+2024-06-09	12:10:40			Model_tuner calling started
+2024-06-09	12:10:40			Finding best parameter started
+2024-06-09	12:10:40			got score 0.49264705882352944 from roc_auc_score
+2024-06-09	12:10:40			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	12:10:40			Prameter finding for Xgboost model started
+2024-06-09	12:10:40			Model_tuner calling started
+2024-06-09	12:10:40			Finding best parameter started
+2024-06-09	12:10:40			got score 1.0 accuracy score
+2024-06-09	12:10:40			Got this 1.0 Random_forest_score score from accuracy_score
+2024-06-09	12:27:40			Prameter finding for Xgboost model started
+2024-06-09	12:27:40			Model_tuner calling started
+2024-06-09	12:27:40			Finding best parameter started
+2024-06-09	12:27:40			got score 0.5 from roc_auc_score
+2024-06-09	12:27:40			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	12:27:40			Prameter finding for Xgboost model started
+2024-06-09	12:27:40			Model_tuner calling started
+2024-06-09	12:27:40			Finding best parameter started
+2024-06-09	12:27:40			got score 0.5 from roc_auc_score
+2024-06-09	12:27:40			Got this 0.5 Random_forest_score score from roc_auc_score
+2024-06-09	12:27:40			Prameter finding for Xgboost model started
+2024-06-09	12:27:40			Model_tuner calling started
+2024-06-09	12:27:40			Finding best parameter started
+2024-06-09	12:27:40			got score 0.5 from roc_auc_score
+2024-06-09	12:27:40			Got this 0.5 Random_forest_score score from roc_auc_score
