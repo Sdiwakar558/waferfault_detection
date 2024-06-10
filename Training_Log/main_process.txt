@@ -1,5 +1,5 @@
-2024-06-09	12:27:40			Raw_Data_Validation.py   methods started
-2024-06-09	12:27:40			Raw_Data_Validation.py   methods Completed
-2024-06-09	12:27:40			,merge_csv_for_s3.py      methods calling started
-2024-06-09	12:27:40			,merge_csv_for_s3.py      methods calling Completed
-2024-06-09	12:27:40			fetching data from AWS S3 buckets
+2024-06-10	15:15:53			Raw_Data_Validation.py   methods started
+2024-06-10	15:15:53			Raw_Data_Validation.py   methods Completed
+2024-06-10	15:15:53			,merge_csv_for_s3.py      methods calling started
+2024-06-10	15:15:53			,merge_csv_for_s3.py      methods calling Completed
+2024-06-10	15:15:53			fetching data from AWS S3 buckets

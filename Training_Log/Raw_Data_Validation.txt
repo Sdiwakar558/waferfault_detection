@@ -1,6 +1,6 @@
-2024-06-09	12:27:39			Copy training File started
-2024-06-09	12:27:39			Existing Training_Batch_fileCopy deleted successfully
-2024-06-09	12:27:39			Training file copied to Training_Batch_fileCopy
+2024-06-10	15:15:50			Copy training File started
+2024-06-10	15:15:50			Existing Training_Batch_fileCopy deleted successfully
+2024-06-10	15:15:50			Training file copied to Training_Batch_fileCopy
 2024-05-05	10:42:19			Taking data from schema_training.json STARTED
 2024-05-05	10:42:19			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
 2024-05-05	10:42:19			18 moved to Good_Raw
@@ -1018,3 +1018,21 @@
 2024-06-09	12:27:39			Column validation completed
 2024-06-09	12:27:39			Column label validation started
 2024-06-09	12:27:39			<class 'OSError'> occured
+2024-06-10	15:13:03			Taking data from schema_training.json STARTED
+2024-06-10	15:13:03			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-06-10	15:13:03			18 moved to Good_Raw
+2024-06-10	15:13:03			Column level validation started
+2024-06-10	15:13:03			wafer_16012020_134553.csv moved to Bad_file folder
+2024-06-10	15:13:03			wafer_17012020_125434.csv moved to Bad_file folder
+2024-06-10	15:13:03			Column validation completed
+2024-06-10	15:13:03			Column label validation started
+2024-06-10	15:13:03			<class 'OSError'> occured
+2024-06-10	15:15:50			Taking data from schema_training.json STARTED
+2024-06-10	15:15:50			SampleFileName:wafer_08012020_120000.csv,LengthOfDateStampInFile:8,LengthOfTimeStampInFile:6,NumberofColumns:592
+2024-06-10	15:15:50			18 moved to Good_Raw
+2024-06-10	15:15:50			Column level validation started
+2024-06-10	15:15:50			wafer_16012020_134553.csv moved to Bad_file folder
+2024-06-10	15:15:50			wafer_17012020_125434.csv moved to Bad_file folder
+2024-06-10	15:15:50			Column validation completed
+2024-06-10	15:15:50			Column label validation started
+2024-06-10	15:15:50			<class 'OSError'> occured

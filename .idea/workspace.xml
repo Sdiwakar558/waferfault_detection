@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82972552-ed67-4470-b911-e79f59f939aa" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/File_operation/File_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Merge_csv/Final_2024-06-09_Training.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/XG_boost.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_Log/File_methods.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Best_model_Tuner/Model_Tuner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Best_model_Tuner/Model_Tuner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Merge_csv/Final_2024-06-06_Training.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File_operation/File_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_operation/File_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge_csv/Final_2024-06-09_Training.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/XG_boost.sav" beforeDir="false" afterPath="$PROJECT_DIR$/Model/XG_boost.sav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer12_20012.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_000000.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Prediction_data/Bad_Raw/Wafer_07012020_223345.csv" beforeDir="false" />
@@ -60,7 +57,6 @@
       <change beforePath="$PROJECT_DIR$/Training_Log/main_process.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/main_process.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_Log/merge_csv_for_s3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Log/merge_csv_for_s3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Training_Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Training_model_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Training_model_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,26 +130,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Aws_conn.executor": "Run",
-    "Python.Clustering.executor": "Run",
-    "Python.Data_Preprocessing.executor": "Run",
-    "Python.File_methods.executor": "Run",
-    "Python.Model_Tuner.executor": "Run",
-    "Python.Raw_Data_Validation.executor": "Run",
-    "Python.Training_Model.executor": "Run",
-    "Python.Training_model.executor": "Run",
-    "Python.Training_model_data.executor": "Debug",
-    "Python.main.executor": "Debug",
-    "Python.mearge_csv_for_s3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "branch",
-    "last_opened_file_path": "C:/Users/diwashar/Waferfault_detection/pythonProject",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Aws_conn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_Preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Model_Tuner.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Raw_Data_Validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Training_Model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Training_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Training_model_data.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.mearge_csv_for_s3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;branch&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diwashar/Waferfault_detection/pythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\diwashar\Waferfault_detection\pythonProject" />

@@ -1,4 +1,4 @@
-2024-06-09	14:41:31			Pure_data_provider_for_training (Methods calling started)
-2024-06-09	14:41:31			Data split successfully
-2024-06-09	14:41:31			Knn imputer started
-2024-06-09	14:41:31			Knn imputer completed
+2024-06-10	15:32:02			Pure_data_provider_for_training (Methods calling started)
+2024-06-10	15:32:02			Data split successfully
+2024-06-10	15:32:02			Knn imputer started
+2024-06-10	15:32:02			Knn imputer completed

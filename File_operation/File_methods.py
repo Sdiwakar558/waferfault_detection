@@ -8,11 +8,8 @@ class File_operation:
         self.Model_path = './Model'
         self.logger = Logger()
 
-    def save_model(self,Final_model,model_name):
+    def check_folderexistance(self):
         try:
-            # log_file = open('./Training_Log/File_methods.txt')
-            # self.logger.log_writer(log_file,'save_model start')
-
             if os.path.exists(self.Model_path):
                 # self.logger.log_writer(log_file, f'{self.Model_path} already exists')
                 shutil.rmtree(self.Model_path)
@@ -23,6 +20,11 @@ class File_operation:
             else:
                 os.mkdir(self.Model_path)
                 # self.logger.log_writer(log_file, 'save_model start')
+        except Exception as e:
+            raise e
+
+    def save_model(self,Final_model,model_name):
+        try:
             with open(self.Model_path+'/'+model_name+'.sav','wb') as f:
                 pickle.dump(Final_model,f)
 

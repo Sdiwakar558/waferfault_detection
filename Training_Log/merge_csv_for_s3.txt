@@ -421,3 +421,15 @@
 2024-06-09	12:27:39			Connection Started
 2024-06-09	12:27:39			Connection established successfully
 2024-06-09	12:27:39			File successfully uploaded to AWS S3
+2024-06-10	15:13:03			CSV mearging started 20
+2024-06-10	15:13:03			./Merge_csv/ at line 26
+2024-06-10	15:13:03			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-10_15:13:03.csv
+2024-06-10	15:13:03			Connection Started
+2024-06-10	15:13:03			Connection established successfully
+2024-06-10	15:13:03			File successfully uploaded to AWS S3
+2024-06-10	15:15:50			CSV mearging started 20
+2024-06-10	15:15:50			./Merge_csv/ at line 26
+2024-06-10	15:15:50			Merge_csv and saved at path location ./Merge_csv/final_wafer_2024-06-10_15:15:50.csv
+2024-06-10	15:15:50			Connection Started
+2024-06-10	15:15:50			Connection established successfully
+2024-06-10	15:15:50			File successfully uploaded to AWS S3
