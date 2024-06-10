@@ -61,7 +61,8 @@ class maincalling_function:
         kmeans_cluster_return = self.Create_kmeans_Clustering
         number_of_cluster = kmeans_cluster_return.elbow_plot(self.independent_data_X)
         independent_data_X_with_cluster = kmeans_cluster_return.create_cluster(self.independent_data_X,number_of_cluster)
-        independent_data_X_with_cluster['Results'] = dependent_data_Y
+        independent_data_X_with_cluster['Results'] = self.dependent_data_Y
+        File_operation().check_folderexistance()
         for cluster_number in range(number_of_cluster):
             individual_cluster_data = independent_data_X_with_cluster[independent_data_X_with_cluster['Cluster']==cluster_number]
             dependent_data_Y_for_distinct_cluster = individual_cluster_data['Results']

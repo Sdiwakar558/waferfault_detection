@@ -189,3 +189,9 @@
 2024-06-09	12:27:39			elbow_plot started
 2024-06-09	12:27:39			Plot is saved
 2024-06-09	12:27:39			Create cluster started
+2024-06-10	15:13:03			elbow_plot started
+2024-06-10	15:13:03			Plot is saved
+2024-06-10	15:13:03			Create cluster started
+2024-06-10	15:15:50			elbow_plot started
+2024-06-10	15:15:50			Plot is saved
+2024-06-10	15:15:50			Create cluster started
